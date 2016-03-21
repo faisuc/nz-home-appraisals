@@ -1,0 +1,226 @@
+#rev_slider_4_1 .tp-static-layers { display:none !important; }
+
+.nzha-step-form ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+.nzha-step-form h1
+{
+	font-size: 20px;
+	margin-bottom: 20px;
+	color: #fff;
+}
+
+.nzha-step-form b
+{
+	color: #0f75bc;
+}
+
+.nzha-step-form
+{
+	width: 100%;
+}
+
+.typeofproperty
+{
+	list-style: none;
+}
+
+.nzimage:hover
+{
+	cursor: pointer;
+}
+
+.input_text { width: 400px; }
+
+@media (max-width:1368px) {
+	.nzimage {  width:90px }
+	.input_text { width: 200px; }
+}
+
+.typeofproperty li:not(last-child)
+{
+	float: left;
+	margin-left: 45px;
+}
+
+.propertycondition
+{
+	list-style: none;
+}
+
+.propertycondition li:not(last-child)
+{
+	float: left;
+	margin-left: 45px;
+}
+
+.propertysize
+{
+	list-style: none;
+}
+
+.propertysize li:not(last-child)
+{
+	float: left;
+	margin-left: 45px;
+}
+
+.propertyfeatures
+{
+	list-style: none;
+}
+
+.propertyfeatures > li
+{
+	float: left;
+}
+
+.propertyfeatures > li:not(last-child)
+{
+	float: left;
+	margin-right: 60px;
+}
+
+.propertyfeatures > li > ul
+{
+	list-style: none;
+}
+
+.propertyfeatures > li > ul > li
+{
+	float: left;
+	margin-right: 20px;
+}
+
+.propertyspecialfeatures
+{
+	list-style: none;
+	text-align: left;
+}
+
+.propertyspecialfeatures li
+{
+	float: left;
+	width: 200px;
+}
+
+.propertyspecialfeaturesImg
+{
+	margin-bottom: 15px;
+}
+
+.relationship
+{
+	list-style: none;
+}
+
+.relationship li:not(last-child)
+{
+	float: left;
+	margin-left: 60px;
+}
+
+.plans
+{
+	list-style: none;
+}
+
+.plans li:not(last-child)
+{
+	float: left;
+	margin-left: 60px;
+}
+
+.timeframe
+{
+	list-style: none;
+}
+
+.timeframe li:not(last-child)
+{
+	float: left;
+	margin-left: 60px;
+}
+
+.home-form
+{
+	position: absolute;
+	top: 460px;
+	left: 300px;
+}
+
+.nzha-previous-button, .nzha-next-button
+{
+	background: #858585;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	padding: 10px 20px;
+	margin-top: 10px;
+}
+
+.nzha-next-button
+{
+	margin-left: 10px;
+	
+}
+
+.type--of--property
+{
+	overflow: hidden;
+	list-style: none;
+}
+
+.type--of--property>li
+{
+	width: 32%; 
+	float: left;
+}
+
+.thankyoumessage-container
+{
+	text-align: left;
+	font-size: 15px;
+}
+
+.thankyoumessage-container h3
+{
+	font-size: 20px;
+}
+
+.thankyoumessage-container .sep-container
+{
+	float: left;
+	width: 50%;
+}
+
+.thankyoumessage-container .the-property-container
+{
+	display: none;
+}
+
+.income-container
+{
+	text-align: left;
+	font-size: 15px;
+}
+
+.income-container .sep-container
+{
+	float: left;
+	width: 48%;
+}
+
+.income-container h3
+{
+	font-size: 20px;
+}
+
+.home-form1 button
+{
+	background: #000;
+}
+
+
